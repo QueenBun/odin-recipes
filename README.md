@@ -1,0 +1,1 @@
+Current project is to make a recipe website using HTML.  It likely will be of brutalist design.  I will demonstrate that I can use simple HTML concepts. 
